@@ -69,11 +69,7 @@ upgrade[0].onclick = () => {
         upg1 = false;
     }
     result.innerText = `All points: ${num}`;
-    // secondBox.style.display = "flex";
-    // lastBox.style.display = "flex";
-    // upgrade[0].style.display = "none";
-    // upgrade[1].style.display = "none";
-    // upgrade[2].style.display = "none";
+ 
 
 }
 
@@ -177,5 +173,3 @@ upgrade[6].onclick = () => {
 //- new cookie (price 200$) - change image of cookie to some other
 //- cookie spin (price 400$) - Make cookie spin (you have to createa animation in css and add the class to cookie image with javascript)
 //- helper (600$) - automatically adds one cookie every 1 second (javascript setInterval)
-
-// perdaryti su funkcijomis visa programa
